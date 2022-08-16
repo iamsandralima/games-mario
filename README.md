@@ -5,10 +5,6 @@
 
 ![tela2mario](https://user-images.githubusercontent.com/107657763/184963587-dc244221-749b-486d-b381-907f57b9481d.jpg)
 
-# Mobile Version
-
-![1](https://user-images.githubusercontent.com/107657763/184964106-be10ecb5-0478-4e4c-a8e5-631de093da33.png)
-
 # 🔧 FERRAMENTAS UTILIZADAS 🔧
 
 • HTML.<br>
