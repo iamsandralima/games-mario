@@ -18,7 +18,7 @@ const start = () => {
 
     pipe.classList.add('pipe-animation');
 
-    mario.src = './mario-jump-images/mario.gif';
+    mario.src = './https://iamsandralima.github.io/games-mario/mario.gif';
     mario.style.width = '150px';
     mario.style.marginLeft = '50px';
 
@@ -75,7 +75,7 @@ const checkGameOver = setInterval(() => {
             mario.style.animation = 'none';
             mario.style.bottom = `${marioPosition}px`;
 
-            mario.src = './mario-jump-images/game-over.png';
+            mario.src = './https://iamsandralima.github.io/games-mario/game-over.png';
             mario.style.width = '75px';
             mario.style.marginLeft = '50px';
 
